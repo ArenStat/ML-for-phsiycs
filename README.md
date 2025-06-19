@@ -1,4 +1,4 @@
-# 🧠 Electric Field Signal Modeling with Polynomial Regression, Ridge & Lasso
+# Electric Field Signal Modeling with Polynomial Regression, Ridge & Lasso
 
 This project demonstrates the modeling of electric field signals using polynomial regression techniques including Linear, Ridge, and Lasso regression. It focuses on analyzing time-domain electric signals and their power spectral densities using FFT, with a particular emphasis on **trimmed signal windows**.
 
